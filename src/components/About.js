@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <section id="about" className="scroll-margin-top">
-      <div className="container mx-auto flex px-40 py-20 md:flex-row mb-20 flex-col items-center">
+      <div className="container mx-auto flex px-20 lg:px-40 py-20 md:flex-row mb-20 flex-col items-center">
         <div className="lg:flew_grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="font-quattrocento sm:text-5xl text-4xl mb-2 text-white">
             My name is Richard Gu.

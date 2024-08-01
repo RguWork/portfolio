@@ -37,10 +37,10 @@ export default function Research() {
                   <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
                     {project.subtitle}
                   </h2>
-                  <h1 className="title-font text-lg font-medium text-white mb-3">
+                  <h1 className="title-font text-sm lg:text-lg font-medium text-white mb-3">
                     {project.title}
                   </h1>
-                  <p className="leading-relaxed">{project.description}</p>
+                  <p className="leading-relaxed text-xs lg:text-sm">{project.description}</p>
                 </div>
               </div>
             </a>
