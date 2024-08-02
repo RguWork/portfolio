@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex flex-row md:flex-row items-center w-full">
           <a
             href="#about"
-            className="ml-4 mr-4 md:mr-0 md:ml-20 text-md md:text-xl hover:text-white transform transition-transform duration-300 hover:scale-110" //test if md:ml-20 is appropriate here
+            className="ml-4 mr-5 md:mr-0 md:ml-20 text-md md:text-xl hover:text-white transform transition-transform duration-300 hover:scale-110" //test if md:ml-20 is appropriate here
           >
             About Me
           </a>

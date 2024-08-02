@@ -14,4 +14,10 @@ html {
 section {
     scroll-margin-top: 80px; /* for adjusting anchor location*/
   }
-  
+
+@media (min-width: 601px) and (max-width: 768px) {
+  .custom-padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}

@@ -22,12 +22,12 @@ export const research = [
     title: "AI and Lace-Based Textile Structure Generation",
     subtitle: "Python",
     description:
-      "Developed novel generative AI methods utilizing equivariance in conjunction with generative models such as Generative Adversarial Networks (GANs), allowing for preservation of detailed structural information and accelerated learning for textile data. Paper pending publication on the linked website.",
+      "Developed novel generative AI methods utilizing equivariance with generative models such as GANs, allowing for preservation of detailed structural information and accelerated learning for textile data. Paper pending publication on the linked website.",
     image: "images/lace.png",
     link: "https://mit-genai.pubpub.org/",
   },
   {
-    title: "Methane Gas Emission Detection System",
+    title: "HMRCNN Methane Gas Detection",
     subtitle: "Python",
     description:
       "Conducted research on Hyperspectral Mask Regional Neural Networking to create a deep learning model that optimizes methane detection within hyperspectral images, with an 87% success rate improvement. Published and presented research paper at 2021 IEEE 3rd ICFTFC.",
